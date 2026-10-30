@@ -6,7 +6,7 @@ A standalone Windows app that connects a Bluetooth heart-rate monitor to a custo
 
 ## Features
 
-- **24 overlay designs** with transparent backgrounds.
+- **32 overlay designs** with transparent backgrounds.
 - **16 colour palettes** and custom heart, accent, and text colours.
 - Live BPM previews and a heart animation that speeds up with your heart rate.
 - Adjustable spacing, size, position, opacity, and pulse strength.
@@ -47,10 +47,6 @@ The Geode package keeps the filename `kamil.pulsoid_heart.geode` so it replaces 
 | **Options** | Show/hide the overlay, animation, heart and number visibility, stacked layout, hide when offline, gameplay-only visibility, Demo mode, and heart-colour threshold. |
 
 Size ranges from **50–200%**. Heart/text spacing ranges from **0–80 overlay units**.
-
-### Designs
-
-Pixel, Clean, Outline, Neon, Ring, Minimal, Arcade, Pixel Outline, Crystal, Dual Tone, Orbit, Radar, Crosshair, Spark, Wings, Crown, Pulse Line, Cyber, Ribbon, Double Ring, Circuit, Glitch, Aurora, and Halo.
 
 ### Live readings and previews
 
