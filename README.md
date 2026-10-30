@@ -2,7 +2,7 @@
 
 A standalone Windows app that connects a Bluetooth heart-rate monitor to a customizable overlay in Geometry Dash.
 
-**Version 1.0 · Windows x64 · Geometry Dash 2.2081**
+**Version 1.1 · Windows x64 · Geometry Dash 2.2081**
 
 ## Features
 
