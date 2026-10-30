@@ -13,7 +13,7 @@ A standalone Windows app that connects a Bluetooth heart-rate monitor to a custo
 - Automatic Geometry Dash detection through running processes and Steam libraries.
 - All overlay controls in the app, with preferences saved between sessions.
 - One executable with the Geode mod and desktop overlay built in.
-- No account, subscription, Pulsoid connection, or cloud service required.
+- No account, subscription, or cloud service required.
 
 ## Getting started
 
